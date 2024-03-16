@@ -17,4 +17,5 @@ This repository is for deploy a dotnet MVC project into IIS.
 * Add the custom DNS in hosts file with local IP (127.0.0.1)
 
 * Now when user will browse the custom domain it will show the MVC application.
+* If you want to make any changes on the application, update the code and publish it again. So it will also reflect on machines IP address.
     
